@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/deebertron/Documents/Development/School/CIDM2315/HelloWorld/HelloWorld.csproj": {}
+    "/home/deebertron/Documents/Development/School/CIDM2315/Week1Code/Week1Code.csproj": {}
   },
   "projects": {
-    "/home/deebertron/Documents/Development/School/CIDM2315/HelloWorld/HelloWorld.csproj": {
+    "/home/deebertron/Documents/Development/School/CIDM2315/Week1Code/Week1Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/deebertron/Documents/Development/School/CIDM2315/HelloWorld/HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "/home/deebertron/Documents/Development/School/CIDM2315/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/home/deebertron/Documents/Development/School/CIDM2315/Week1Code/Week1Code.csproj",
+        "projectName": "Week1Code",
+        "projectPath": "/home/deebertron/Documents/Development/School/CIDM2315/Week1Code/Week1Code.csproj",
         "packagesPath": "/home/deebertron/.nuget/packages/",
-        "outputPath": "/home/deebertron/Documents/Development/School/CIDM2315/HelloWorld/obj/",
+        "outputPath": "/home/deebertron/Documents/Development/School/CIDM2315/Week1Code/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/deebertron/.nuget/NuGet/NuGet.Config"
