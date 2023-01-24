@@ -1,7 +1,7 @@
 ﻿// ---------------------Week1-Part1-----------------------
 // namespace indicates the name of our project/app. folder 
 // to organize code at the highest logical level
-namespace Week1Code; 
+namespace week1Code; 
 
 /*
     - A class is a sublevel of namespace; 
