@@ -1,0 +1,1 @@
+dotnet new console -o Homework4 --use-program-main true

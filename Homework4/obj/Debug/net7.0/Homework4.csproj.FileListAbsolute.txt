@@ -1,0 +1,15 @@
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/bin/Debug/net7.0/Homework4
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/bin/Debug/net7.0/Homework4.deps.json
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/bin/Debug/net7.0/Homework4.runtimeconfig.json
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/bin/Debug/net7.0/Homework4.dll
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/bin/Debug/net7.0/Homework4.pdb
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/obj/Debug/net7.0/Homework4.csproj.AssemblyReference.cache
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/obj/Debug/net7.0/Homework4.GeneratedMSBuildEditorConfig.editorconfig
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/obj/Debug/net7.0/Homework4.AssemblyInfoInputs.cache
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/obj/Debug/net7.0/Homework4.AssemblyInfo.cs
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/obj/Debug/net7.0/Homework4.csproj.CoreCompileInputs.cache
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/obj/Debug/net7.0/Homework4.dll
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/obj/Debug/net7.0/refint/Homework4.dll
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/obj/Debug/net7.0/Homework4.pdb
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/obj/Debug/net7.0/Homework4.genruntimeconfig.cache
+/home/deebertron/Documents/Development/School/CIDM2315/Homework4/obj/Debug/net7.0/ref/Homework4.dll
