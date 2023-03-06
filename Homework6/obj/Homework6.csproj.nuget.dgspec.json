@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/deebertron/Documents/Development/School/CIDM2315/Homework5/Homework5.csproj": {}
+    "/home/deebertron/Documents/Development/School/CIDM2315/Homework6/Homework6.csproj": {}
   },
   "projects": {
-    "/home/deebertron/Documents/Development/School/CIDM2315/Homework5/Homework5.csproj": {
+    "/home/deebertron/Documents/Development/School/CIDM2315/Homework6/Homework6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/deebertron/Documents/Development/School/CIDM2315/Homework5/Homework5.csproj",
-        "projectName": "Homework5",
-        "projectPath": "/home/deebertron/Documents/Development/School/CIDM2315/Homework5/Homework5.csproj",
+        "projectUniqueName": "/home/deebertron/Documents/Development/School/CIDM2315/Homework6/Homework6.csproj",
+        "projectName": "Homework6",
+        "projectPath": "/home/deebertron/Documents/Development/School/CIDM2315/Homework6/Homework6.csproj",
         "packagesPath": "/home/deebertron/.nuget/packages/",
-        "outputPath": "/home/deebertron/Documents/Development/School/CIDM2315/Homework5/obj/",
+        "outputPath": "/home/deebertron/Documents/Development/School/CIDM2315/Homework6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/deebertron/.nuget/NuGet/NuGet.Config"
